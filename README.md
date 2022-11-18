@@ -8,3 +8,5 @@
 | 3 | Arithmetic Operators   | [pyprog03.py](DataTypeAndOperators/pyprog03.py)  |
 | 4 | Assignment Operators   | [pyprog04.py](DataTypeAndOperators/pyprog04.py)  |
 | 5 | Bitwise Operators      | [pyprog05.py](DataTypeAndOperators/pyprog05.py)  |
+| 6 | Logical Operators      | [pyprog06.py](DataTypeAndOperators/pyprog06.py)  |
+| 7 | Comparison Operators   | [pyprog07.py](DataTypeAndOperators/pyprog07.py)  |
