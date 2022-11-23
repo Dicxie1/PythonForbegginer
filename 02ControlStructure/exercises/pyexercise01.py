@@ -8,6 +8,9 @@ password = input("Enter your password: ")
 
 if password == "secret":
     print("Access Granted")
+    print("Welcome! You must be someone very important")
+else: 
+    print("Access Denied")
 
 input("\n\nPress Enter key to exit...")
 
