@@ -1,5 +1,10 @@
 #¡/usr/bin/env python3
 # mood computer program
+"""
+Application: pyexercise02.py
+Written by: Dicxie Madrigal <dicxiemadrigal@gmail.com>
+Purpose: Exercises describe how to use if sentences
+"""
 from random import randint
 
 print("I sense your energy. Your true emotion are coming across my screen.")
@@ -16,7 +21,7 @@ if mood == 1:
         |    <    |
         |         |
         | .     . |
-        | \´   \´ |
+        |  ´    ´ |
         |   ...   |
         |_________|
         """)
