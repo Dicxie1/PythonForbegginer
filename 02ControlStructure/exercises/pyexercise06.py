@@ -2,7 +2,7 @@
 """
 Application: pyexercise06.py
 Written by: Dicxie Madrigal <dicxiemadrigal@gmail.com>
-Purpose: Treating value as condional
+Purpose: Treating value as conditional
 """
 print("Welcome to Chateau D' Food")
 print("Is seems we are quite full ths evening.\n")
