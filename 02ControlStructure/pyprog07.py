@@ -24,7 +24,7 @@ elif username == "C. Jose" and password == "secret1":
 elif username == "P. Morales" and password == "secret":
     print("Hey, Pedro")
     security = 3
-elif username == "guest" and password == "guest":
+elif username == "guest" or password == "guest":
     print("Welcome, Guest")
     security = 1
 else: 
